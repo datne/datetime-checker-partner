@@ -1,0 +1,16 @@
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\obj\Debug\DateTimeCheckerTests.csprojResolveAssemblyReference.cache
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeCheckerTests.dll
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeCheckerTests.pdb
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeChecker.exe
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeChecker.pdb
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\obj\Debug\DateTimeCheckerTests.dll
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeCheckerTests\obj\Debug\DateTimeCheckerTests.pdb
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeCheckerTests.dll
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeCheckerTests.pdb
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeChecker.exe
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\bin\Debug\DateTimeChecker.pdb
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\obj\Debug\DateTimeCheckerTests.csprojResolveAssemblyReference.cache
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\obj\Debug\DateTimeCheckerTests.dll
+G:\kiemdinh\DateTimeChecker\DateTimeCheckerTests\obj\Debug\DateTimeCheckerTests.pdb

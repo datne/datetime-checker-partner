@@ -1,0 +1,28 @@
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csprojResolveAssemblyReference.cache
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.Cache
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
+D:\App học\doan\KiemDinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.frmDTC.resources
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csprojResolveAssemblyReference.cache
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.frmDTC.resources
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+G:\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.Cache
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csprojAssemblyReference.cache
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.frmDTC.resources
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.cache
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+C:\Users\duynh\OneDrive\Desktop\Kiemdin\kiemdinh-lab2vs3\kiemdinh\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
